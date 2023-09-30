@@ -1,5 +1,5 @@
 - 👋 Hi, @dosoevski here!
-- 🌱 I’m currently learning C#, c++ and JavaScript.
+- 🌱 I’m currently learning HTML,CSS, JavaScript, C#, and c++.
 
 <!---
 dosoevski/dosoevski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
